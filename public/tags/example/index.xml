@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
       <title>Example on theodor weber </title>
-    <link>http://localhost:1313/tags/example/index.xml/</link>
+    <link>localhost/tags/example/index.xml/</link>
     <language>en-US</language>
     <author>Enthusiastic Hugo User</author>
     <rights>Copyright (c) 2014, Enthusiastic Hugo User; all rights reserved.</rights>
@@ -10,10 +10,10 @@
     
     <item>
       <title>Dezember 2014</title>
-      <link>http://localhost:1313/jahr-03/Dezember-2014/</link>
+      <link>/localhost/jahr-03/Dezember-2014/</link>
       <pubDate>Sun, 07 Dec 2014 00:00:00 UTC</pubDate>
       <author>Enthusiastic Hugo User</author>
-      <guid>http://localhost:1313/jahr-03/Dezember-2014/</guid>
+      <guid>/localhost/jahr-03/Dezember-2014/</guid>
       <description>
 
 &lt;h3 id=&#34;toc_0&#34;&gt;Weihnachtsvorbereitungen&lt;/h3&gt;

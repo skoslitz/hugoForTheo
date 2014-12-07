@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>/localhost/</loc>
     <lastmod>2014-12-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/jahr-03/Dezember-2014/</loc>
+    <loc>/localhost/jahr-03/Dezember-2014/</loc>
     <lastmod>2014-12-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/jahr-03/Oktober-2014/</loc>
+    <loc>/localhost/jahr-03/Oktober-2014/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
   </url>
   
