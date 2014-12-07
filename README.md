@@ -1,4 +1,4 @@
-Hugo Blog for personal life
+##Hugo Blog for personal life
 
 Getting Started
 ---------------
