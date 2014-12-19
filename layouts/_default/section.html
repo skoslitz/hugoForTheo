@@ -1,0 +1,20 @@
+{{ partial "header.html" . }}
+<body>
+{{ partial "navbar.html" . }}
+<div class="container">
+<div class="row">
+	<div class="col-md-12">
+    <div class="text-center">
+			{{ range .Data.Pages }}
+			<h1>
+			<a href="{{ .Permalink}}">{{ .Title }}</a>			
+			</h1>
+			{{ end }}
+    </div>
+	</div>
+
+</div>
+{{ partial "footer.copyright.html" . }}
+</div>
+{{ partial "footer.html" . }}
+	
