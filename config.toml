@@ -1,7 +1,7 @@
+baseurl = "localhost"
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
-baseurl = "localhost"
 languageCode = "de-de"
 title = "theodor weber"
 canonifyurls = true
