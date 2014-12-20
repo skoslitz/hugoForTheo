@@ -8,5 +8,5 @@ categories = "Drittes Lebensjahr"
 {{% img src="/img/theo-frontpage.jpg" alt="Theo Front" %}}
 Theo ist da 
 
-### Eins weiter
+### Auf zur Teestunde in den Colditzer Forst
 {{% img src="/img/theo_10_2014_01.JPG" alt="Theo Front" %}}

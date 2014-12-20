@@ -4,11 +4,13 @@
 <div class="container">
 	<div class="row">
     <div class="col-md-12">
-			<a href="{{ .Site.BaseUrl }}/{{ .Section }}"><--</a>
       <div class="text-center">
               <h1>{{ .Title }}<br> <small>{{ .Description }}</small></h1>
               <hr>
               {{ .Content }}
+              <br>
+              <p>**</p>
+      				<small><a href="{{ .Site.BaseUrl }}/{{ .Section }}">Zurück zur Jahresübersicht</a></small>
       </div>
     </div>
 
