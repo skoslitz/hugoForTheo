@@ -41,7 +41,7 @@ categories = "Erstes Lebensjahr"
 
 ### Dadadada ...
 
-{{% audio src="sound/theo_19_08_2013.mp3" %}}
+{{% audio src="/sound/theo_19_08_2013.mp3" %}}
 
 ### Erste Erfahrungen mit dem Spiegel.
 

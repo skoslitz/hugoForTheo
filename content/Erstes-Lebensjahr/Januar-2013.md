@@ -33,7 +33,7 @@ categories = "Erstes Lebensjahr"
 
 ### Theodors Laute auf der Wickelkommode
 
-{{% audio src="/sound/theo_01_2012" %}}
+{{% audio src="/sound/theo_01_2012.mp3" %}}
 
 ### Neulich nach der Badewanne…
 
