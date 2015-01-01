@@ -15,6 +15,11 @@
             
             <!-- tDo -->
             <!-- go expression für datum des letzten Eintrages und verlinken -->
+            {{ range first 1 .Data.Pages }}
+                <a href="{{ .Permalink }}">
+                  {{ .Title }}
+                </a>
+            {{ end }}  
         </div>
     </div>
 </div>
