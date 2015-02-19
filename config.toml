@@ -1,4 +1,4 @@
-baseurl = "theodor.actageo.de"
+# baseurl = "theodor.actageo.de"
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"

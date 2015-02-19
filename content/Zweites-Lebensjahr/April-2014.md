@@ -10,19 +10,19 @@ categories = "Zweites Lebensjahr"
 {{% video id="93254909" %}}
 
 ### Theo im Garten
-img(class="img-thumbnail" src="img/theo_04_2014_04.JPG")
+{{% img src="/img/theo_04_2014_04.JPG" %}} 
 
 ### Hmmm Stachelbeerbrause
-img(class="img-thumbnail" src="img/theo_04_2014_05.JPG")
+{{% img src="/img/theo_04_2014_05.JPG" %}} 
 
 ### Frühstück!
-img(class="img-thumbnail" src="img/theo_04_2014_01.JPG")
+{{% img src="/img/theo_04_2014_01.JPG" %}} 
 
 ### Die Gartensaison ist eröffnet 
-img(class="img-thumbnail" src="img/theo_04_2014_02.JPG")
+{{% img src="/img/theo_04_2014_02.JPG" %}} 
 
 ### Osterspaziergang auf der Haustierfarm
-img(class="img-thumbnail" src="img/theo_04_2014_03.JPG")
+{{% img src="/img/theo_04_2014_03.JPG" %}} 
 
 ### Theodor lernt das Essen
 {{% video id="92112503" %}}
