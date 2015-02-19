@@ -7,4 +7,4 @@ categories = "Drittes Lebensjahr"
 ### Faschingszeit!
 {{% img src="/img/theo_02_2015_01.JPG" %}}
 
-{{% video id="120087575" %}}
+{{% videoQuerformat id="120087575" %}}
