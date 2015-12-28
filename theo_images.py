@@ -13,6 +13,9 @@ topdir = '.'
  
 # The arg argument for walk, and subsequently ext for step
 exten =  ('.jpg', '.JPG')
+
+# TODO: user input sets correct img_file_name
+# img_file_name = 'theo_09_2015_17'
  
 def step(ext, dirname, names):
 
@@ -52,9 +55,9 @@ def step(ext, dirname, names):
             ImageFile.MAXBLOCK = 2 * image.size[0] * image.size[1]
             # Save image with renamed filepath, set jpeg options 
             new_filepath = os.path.join(dirname, filename) 
-            image.save(new_filepath + '.jpg', progressive=True, quality=90)
+            image.save(new_filepath + '.JPG', progressive=True, quality=90)
 
-            print (new_filepath + ".jpg was saved")
+            print (new_filepath + ".JPG was saved")
             
  
 # Start the walk through folders
