@@ -11,5 +11,6 @@ categories = "Zweites Lebensjahr"
 
 ### Theo bei Omi auf dem Land
 {{% img src="/img/theo_08_2014_01.JPG" %}}
+
 ### Landluft macht müde
 {{% img src="/img/theo_08_2014_02.JPG" %}}

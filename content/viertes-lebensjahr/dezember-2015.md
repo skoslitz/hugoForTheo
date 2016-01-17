@@ -9,7 +9,7 @@ categories = "Viertes Lebensjahr"
 {{% img src="/img/theo_12_2015_01.JPG" %}}
 
 
-### ... für ein Tausch gegen Geschenke.
+### ... für einen Tausch gegen Geschenke.
 {{% img src="/img/theo_12_2015_02.JPG" %}}
 
 ### Theodors Wunsch: "Eine Eisenbahn die alleine fährt".
@@ -51,3 +51,7 @@ categories = "Viertes Lebensjahr"
 {{% img src="/img/theo_12_2015_14.JPG" %}}
 
 {{% img src="/img/theo_12_2015_13.JPG" %}}
+
+
+### Zum Schluss, Theodors eigene Schnappschüsse im Schnelldurchlauf
+{{% img src="/img/theo_12_2015_Eigene_Aufnahmen.GIF" %}}
