@@ -4,19 +4,19 @@
 
 #!/usr/bin/env python
 import os.path
-import ImageFile
-import Image
+from PIL import ImageFile
+from PIL import Image
 
 
-# The top argument for walk.  
+# The top argument for walk.
 topdir = '.'
- 
+
 # The arg argument for walk, and subsequently ext for step
 exten =  ('.jpg', '.JPG')
 
 # TODO: user input sets correct img_file_name
 # img_file_name = 'theo_09_2015_17'
- 
+
 def step(ext, dirname, names):
 
     for name in names:
@@ -26,7 +26,7 @@ def step(ext, dirname, names):
             filepath = os.path.join(dirname, name)
             try:
                 image = Image.open(filepath)
-                basewidth = 640
+                basewidth = 480
 
                 if image.size[0] < basewidth:
                     basewidth = image.size[0]
@@ -38,14 +38,14 @@ def step(ext, dirname, names):
 
             width_ratio = (basewidth/float(image.size[0]))
             height = int((float(image.size[1])*float(width_ratio)))
-       
+
             absolute_filepath = os.path.basename(filepath)
             # Split the original filename into name and extension
             (filename, extension) = os.path.splitext(absolute_filepath)
 
             #new_name = filename[:9] + file_suffix + filename[9:]
-           
-            # Resize the image with maintained aspect ration 
+
+            # Resize the image with maintained aspect ration
             # and ANTIALIAS downsampling filter
             image = image.resize((basewidth,height), Image.ANTIALIAS)
 
@@ -53,12 +53,12 @@ def step(ext, dirname, names):
 
             # set buffer properly for saving image
             ImageFile.MAXBLOCK = 2 * image.size[0] * image.size[1]
-            # Save image with renamed filepath, set jpeg options 
-            new_filepath = os.path.join(dirname, filename) 
+            # Save image with renamed filepath, set jpeg options
+            new_filepath = os.path.join(dirname, filename)
             image.save(new_filepath + '.JPG', progressive=True, quality=90)
 
             print (new_filepath + ".JPG was saved")
-            
- 
+
+
 # Start the walk through folders
 os.path.walk(topdir, step, exten)
