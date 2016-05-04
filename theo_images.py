@@ -15,7 +15,7 @@ topdir = '.'
 exten =  ('.jpg', '.JPG')
 
 # TODO: user input sets correct img_file_name
-# img_file_name = 'theo_09_2015_17'
+# img_file_name = 'theo_05_2016_'
 
 def step(ext, dirname, names):
 
