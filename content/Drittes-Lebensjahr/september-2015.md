@@ -5,7 +5,7 @@ draft = false
 title = "September 2015"
 
 +++
-![](/forestryio/images/stack_cri.png)### Ferienzeit an der Ostsee 
+### Ferienzeit an der Ostsee 
 
 {{% img src="/img/theo_09_2015_01.JPG" %}}![](/forestryio/images/stack_cri.png)
 
