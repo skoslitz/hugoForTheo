@@ -1,14 +1,13 @@
 +++
-date = "2015-09-30"
-draft = true
-title = "September 2015"
 categories = "Drittes Lebensjahr"
+date = "2015-09-30T00:00:00+00:00"
+draft = false
+title = "September 2015"
 
 +++
-
 ### Ferienzeit an der Ostsee 
 
-{{% img src="/img/theo_09_2015_01.JPG" %}}
+{{% img src="/img/theo_09_2015_01.JPG" %}}![](/forestryio/images/stack_cri.png)
 
 {{% img src="/img/theo_09_2015_02.JPG" %}}
 
@@ -49,4 +48,5 @@ categories = "Drittes Lebensjahr"
 {{% img src="/img/theo_09_2015_16.JPG" %}}
 
 ### Da geht es zum Schiff.
-{{% img src="/img/theo_09_2015_17.JPG" %}}
+{{% img src="/img/theo_09_2015_17.JPG" %}}[](http://){{% img src="/img/theo_09_2015_17.JPG" %}}[](http://)
+        
